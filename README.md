@@ -6,11 +6,17 @@ This data analysis project aims to explore, analyze, and derive actionable insig
 
 ## Objectives:
 **Data Cleaning and Preprocessing:** To prepare the dataset for analysis by cleaning and structuring the data, including handling missing values, removing duplicates, and standardizing formats.
+
 **Exploratory Data Analysis (EDA):** To conduct an initial exploration of the data to understand the types of incidents reported, frequency of calls, temporal patterns, and geographical distribution of incidents.
+
 **Trend Analysis:** To identify and analyze long-term trends in the data, such as increases or decreases in specific types of incidents, seasonal variations, and any correlations with significant public events or policy changes.
+
 **Geospatial Analysis:** To map the data and examine the spatial distribution of incidents across different neighborhoods, identifying hotspots for particular types of emergencies or reports.
+
 **Response Time Analysis:** To evaluate the efficiency of the NYPD's response to incidents, including average response times and factors influencing delays.
+
 **Predictive Modeling:** To develop models that can predict future trends in incident reports, potential hotspots, and response times, using historical data to inform resource allocation and planning.
+
 **Recommendations for Improvement:** Based on the findings, to suggest actionable recommendations for the NYPD and relevant stakeholders to improve public safety, response efficiency, and resource management.
 
 ## Data Description:
