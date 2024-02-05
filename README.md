@@ -12,14 +12,16 @@ Geospatial Analysis: To map the data and examine the spatial distribution of inc
 Response Time Analysis: To evaluate the efficiency of the NYPD's response to incidents, including average response times and factors influencing delays.
 Predictive Modeling: To develop models that can predict future trends in incident reports, potential hotspots, and response times, using historical data to inform resource allocation and planning.
 Recommendations for Improvement: Based on the findings, to suggest actionable recommendations for the NYPD and relevant stakeholders to improve public safety, response efficiency, and resource management.
-Data Description:
+
+## Data Description:
 The dataset encompasses records from the NYPD 911 ICAD system, with each record corresponding to an individual entry made by call takers, dispatchers, or NYPD Members of Service. Data attributes include but are not limited to: date and time of call, type of incident reported, location information (e.g., address, precinct, borough), response times, and outcome of the incident.
 
 ## Methodology:
 Data Collection: Utilize the existing ICAD dataset, ensuring data privacy and ethical considerations are addressed.
 Data Analysis Tools: Employ statistical software and programming languages such as Python or R for data cleaning, analysis, and visualization. Utilize GIS software for geospatial analysis.
 Statistical and Machine Learning Techniques: Apply statistical methods to identify trends and correlations, and machine learning algorithms for predictive modeling.
-Expected Outcomes:
+
+## Expected Outcomes:
 A comprehensive analysis report detailing findings on incident types, trends, response efficiency, and geographical hotspots.
 Interactive visualizations and maps to illustrate the spatial distribution of incidents and response times.
 Predictive models to forecast future incident trends and response resource needs.
