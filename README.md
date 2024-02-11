@@ -1,9 +1,9 @@
 # Analysis of NYPD 911 Calls Data for Enhanced Public Safety and Response Efficiency
-[![Liscense]()]
-[![Github Issues]()]
-[![Github Fork]()]
-[![Github Stars]()]
-[![Github Pull Requests]()]
+![GitHub License](https://img.shields.io/github/license/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety?style=flat-square&logo=MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety?display_timestamp=committer&style=flat-square&logo=GitHub)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety)
+![GitHub forks](https://img.shields.io/github/forks/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety?style=flat-square&logo=GitHub)
+![GitHub Repo stars](https://img.shields.io/github/stars/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety?style=flat-square&logo=Stars)
 
 ## Overview:
 This data analysis project aims to explore, analyze, and derive actionable insights from the NYPD 911 system data, compiled from the Integrated Computer Assisted Dispatch (ICAD) system. The ICAD system is an essential tool used by call takers and dispatchers to manage interactions with the public and coordinate the NYPD's response. The dataset includes records of all entries made into the system, capturing a comprehensive range of incidents reported by the public as well as self-initiated reports by NYPD Members of Service. Through this project, we seek to uncover patterns, trends, and areas for improvement in how emergencies and public reports are handled, ultimately contributing to better public safety and more efficient use of NYPD resources.
