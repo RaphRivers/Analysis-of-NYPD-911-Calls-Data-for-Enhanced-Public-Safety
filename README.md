@@ -1,4 +1,4 @@
-# Analysis of NYPD 911 Calls Data for Enhanced Public Safety and Response Efficiency
+# NYPD 911 Calls Data Analysis for Enhanced Public Safety and Response Efficiency
 ![GitHub License](https://img.shields.io/github/license/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety?style=flat-square&logo=MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety?display_timestamp=committer&style=flat-square&logo=GitHub)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/RaphRivers/Analysis-of-NYPD-911-Calls-Data-for-Enhanced-Public-Safety)
